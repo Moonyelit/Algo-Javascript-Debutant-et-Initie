@@ -10,6 +10,8 @@ let nombre2 = 10;
 console.log(nombre1+nombre2)
 
 //EXO 3
-const tableFruts = ["pomme", "banane", "cerise"];
-for 
+const tableauFruits = ["pomme", "banane", "cerise"];
+for (let fruit of tableauFruits){
+    console.log(fruit);
+}
 
