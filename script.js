@@ -118,4 +118,14 @@ for (let i = 0; i < phrase.length; i++) {
   console.log(negatif);
 
   //EXO 8
+    const nombresaleatoire2= [-2, 9, -32, 39, -45];
+    let max = nombresaleatoire2[] ;
+
+    for (let i=0; i<nombresaleatoire2.length; i++) {
+        if (nombresaleatoire2 > max) {
+            max = nombresaleatoire2; 
+        }
+    }
+    console.log(max);
+
   
