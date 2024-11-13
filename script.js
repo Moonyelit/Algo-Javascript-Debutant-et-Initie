@@ -16,4 +16,11 @@ for (let fruit of tableauFruits){
 }
 
 //EXO 4
-let (1,2,3,4,5,6,7,8,9,10)
+for (let i = 0; i <20; i++) {
+    if ( i%2 === 0 )
+    console.log (i)
+}
+
+
+//EXO 5
+d
