@@ -23,4 +23,19 @@ for (let i = 0; i <20; i++) {
 
 
 //EXO 5
-d
+const mot = "programmation";
+let voyelles = ["a", "e", "i", "o" , "u" , "y"];
+let nombreVoyelles = 0;
+
+for (let i = 0; i < mot.length ; i++) {
+    if (voyelles.includes(mot[i])) {
+        console.log(mot[i])
+        nombreVoyelles = nombreVoyelles +1
+
+    }
+}
+console.log(nombreVoyelles);
+
+
+//EXO 6
+e
